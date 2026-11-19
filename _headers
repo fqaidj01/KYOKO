@@ -1,0 +1,4 @@
+/*
+  Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline' https://ja.wikipedia.org; img-src data: https://ja.wikipedia.org https://*.wikimedia.org; font-src https://ja.wikipedia.org https://*.wikimedia.org; form-action https://ja.wikipedia.org; base-uri 'none'; frame-ancestors 'none'
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: no-referrer
